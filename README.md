@@ -1,4 +1,4 @@
-# tela_logingf
+# Tela de Login - implementação Google, Facebook e Email/Senha usando Firebase
 
 A new Flutter project.
 ## Necessário configurações adicionais nos seguintes aquivos
