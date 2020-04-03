@@ -1,19 +1,17 @@
 # tela_logingf
 
 A new Flutter project.
-![](/lib/gifs/facebook_signIn.gif)
-
 ## Necessário configurações adicionais nos seguintes aquivos
 ### Referente a plataforma Android
 
-1 => /app/res/values/strings.xml.
-2 => /app/manifest/AndroidManifest.xml.
+#### 1 => /app/res/values/strings.xml. <br/>
+#### 2 => /app/manifest/AndroidManifest.xml.
 
-Caso não encontre o arquivo strings.xml crie o mesmo no caminho indicado abaixo.
+Caso não encontre o arquivo strings.xml crie o mesmo no caminho indicado abaixo. <br/>
 Faça o download do arquivo google-services.json no Firebase e instale segundo as 
     instruções referente a plataforma desejada.
 
-
+<img src="/lib/gifs/facebook_signIn.gif" width="300" height="550"> <img src="/lib/gifs/google_signIn.gif" width="300" height="550"> <img src="/lib/gifs/login_email_senha.gif" width="300" height="550"> <img src="/lib/gifs/transicao_de_telas.gif" width="300" height="550">
 
 ## Getting Started
 
